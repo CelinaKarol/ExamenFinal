@@ -1,1 +1,6 @@
 # ExamenFinal - Taller de Aplicaciones en Internet
+
+- ARIEL DAYGOR ESPINOZA SANJINEZ
+- WILLY CHAMBILLA
+- CELINA ARUQUIPA
+- MANUEL JESUS TOLA
